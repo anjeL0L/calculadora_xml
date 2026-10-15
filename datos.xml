@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <registro>
+        <edad>25</edad>
+        <salario>1500</salario>
+    </registro>
+    <registro>
+        <edad>30</edad>
+        <salario>2000</salario>
+    </registro>
+    <registro>
+        <edad>35</edad>
+        <salario>2500</salario>
+    </registro>
+    <registro>
+        <edad>40</edad>
+        <salario>3000</salario>
+    </registro>
+</registros>
